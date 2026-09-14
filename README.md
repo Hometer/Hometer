@@ -1,6 +1,6 @@
 # Hi, I'm PeteHomer 👋
 
-[![Explore Hometer's work](assets/ai-product-manager-terminal.svg)](https://github.com/Hometer?tab=repositories)
+[![Explore Hometer's work](assets/ai-product-manager-terminal.svg?v=2)](https://github.com/Hometer?tab=repositories)
 
 <p align="center"><sub>AI Product Manager building practical, evidence-driven products</sub></p>
 
