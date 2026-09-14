@@ -2,27 +2,27 @@
   <title id="title">Hometer AI Product Manager profile</title>
   <desc id="desc">Animated terminal introduction for an AI Product Manager</desc>
   <style>
-    :root { color-scheme: light dark; }
-    .window { fill: #0d1117; stroke: #30363d; stroke-width: 2; }
-    .bar { fill: #161b22; }
-    .divider { stroke: #30363d; stroke-width: 1; }
+    :root { color-scheme: light; }
+    .window { fill: #ffffff; stroke: #d0d7de; stroke-width: 2; }
+    .bar { fill: #ffffff; }
+    .divider { stroke: #d8dee4; stroke-width: 1; }
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "PingFang SC", monospace; }
-    .meta { fill: #8b949e; font-size: 13px; letter-spacing: .8px; }
-    .title-text { fill: #f0f6fc; font-size: 21px; font-weight: 700; }
-    .body { fill: #c9d1d9; font-size: 17px; }
-    .prompt { fill: #58a6ff; font-size: 17px; font-weight: 700; }
-    .ok { fill: #3fb950; font-weight: 700; }
-    .accent { fill: #d2a8ff; }
+    .meta { fill: #57606a; font-size: 13px; letter-spacing: .8px; }
+    .title-text { fill: #24292f; font-size: 21px; font-weight: 700; }
+    .body { fill: #57606a; font-size: 17px; }
+    .prompt { fill: #0969da; font-size: 17px; font-weight: 700; }
+    .ok { fill: #1a7f37; font-weight: 700; }
+    .accent { fill: #8250df; }
     .line { opacity: 0; animation: reveal 8s ease-in-out infinite; }
     .l1 { animation-delay: .15s; }
     .l2 { animation-delay: .55s; }
     .l3 { animation-delay: .95s; }
     .l4 { animation-delay: 1.35s; }
     .l5 { animation-delay: 1.75s; }
-    .ready { fill: #3fb950; font-size: 18px; font-weight: 700; opacity: 0; animation: ready 8s ease-in-out infinite; }
-    .cta { fill: #8b949e; font-size: 14px; letter-spacing: 1.6px; opacity: 0; animation: cta 8s ease-in-out infinite; }
-    .arrow { fill: #58a6ff; font-size: 22px; opacity: 0; animation: arrow 1.4s ease-in-out infinite; animation-delay: 3.8s; }
-    .cursor { fill: #58a6ff; animation: blink .85s steps(1) infinite; }
+    .ready { fill: #1a7f37; font-size: 18px; font-weight: 700; opacity: 0; animation: ready 8s ease-in-out infinite; }
+    .cta { fill: #57606a; font-size: 14px; letter-spacing: 1.6px; opacity: 0; animation: cta 8s ease-in-out infinite; }
+    .arrow { fill: #0969da; font-size: 22px; opacity: 0; animation: arrow 1.4s ease-in-out infinite; animation-delay: 3.8s; }
+    .cursor { fill: #0969da; animation: blink .85s steps(1) infinite; }
     @keyframes reveal {
       0%, 5% { opacity: 0; transform: translateY(5px); }
       11%, 78% { opacity: 1; transform: translateY(0); }
