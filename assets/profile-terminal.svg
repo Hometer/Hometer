@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" role="img" aria-labelledby="title desc">
-  <title id="title">Hometer profile terminal</title>
-  <desc id="desc">Animated terminal introduction for Hometer's GitHub profile</desc>
+  <title id="title">Hometer AI Product Manager profile</title>
+  <desc id="desc">Animated terminal introduction for an AI Product Manager</desc>
   <style>
     :root { color-scheme: light dark; }
     .window { fill: #0d1117; stroke: #30363d; stroke-width: 2; }
@@ -54,12 +54,12 @@
   <circle cx="24" cy="27" r="7" fill="#f85149"/>
   <circle cx="47" cy="27" r="7" fill="#d29922"/>
   <circle cx="70" cy="27" r="7" fill="#3fb950"/>
-  <text class="mono meta" x="500" y="31" text-anchor="middle">pete@hometer-mac  ·  github profile</text>
+  <text class="mono meta" x="500" y="31" text-anchor="middle">pete@hometer  ·  AI product manager</text>
 
-  <text class="mono title-text line l1" x="54" y="99">Hometer OS v1.0</text>
-  <text class="mono body line l2" x="54" y="143">[ <tspan class="ok">OK</tspan> ] profile loaded</text>
-  <text class="mono prompt line l3" x="54" y="192">focus <tspan class="body">AI product deconstruction · evaluation</tspan></text>
-  <text class="mono prompt line l4" x="54" y="231">build <tspan class="body">tools for research · paper reading</tspan></text>
+  <text class="mono title-text line l1" x="54" y="99">AI Product Manager Console</text>
+  <text class="mono body line l2" x="54" y="143">[ <tspan class="ok">OK</tspan> ] product context loaded</text>
+  <text class="mono prompt line l3" x="54" y="192">discover <tspan class="body">user problems · measurable outcomes</tspan></text>
+  <text class="mono prompt line l4" x="54" y="231">evaluate <tspan class="body">model capability · product workflows</tspan></text>
   <text class="mono prompt line l5" x="54" y="286">pete@github ~ % <tspan class="body">open featured-projects</tspan><tspan class="cursor">_</tspan></text>
 
   <text class="mono ready" x="54" y="335">READY TO EXPLORE</text>
